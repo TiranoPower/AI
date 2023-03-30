@@ -3,7 +3,7 @@
 
 
 
-* NLP
+* NLP(4주 미프 준비 : 데이터 분석 - 데이터 전처리 - 머신러닝 - 딥러닝 - 캐글)
 1.자연어 처리 : https://www.youtube.com/watch?v=yW63iUxXnlc&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=18
 
 2.텍스트 분석 https://www.youtube.com/watch?v=RgKzmJQf21s&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=19
