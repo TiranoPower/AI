@@ -8,7 +8,7 @@
 
 2.텍스트 분석 https://www.youtube.com/watch?v=RgKzmJQf21s&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=19
 
-3.RNN 텍스트 분류 : https://www.youtube.com/watch?v=mX7-QVw3WW8&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=23
+3.RNN 텍스트 처리 및 분류 : https://www.youtube.com/watch?v=mX7-QVw3WW8&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=23
 
 4.Seq2Seq, 어텐션 메커니즘 : https://www.youtube.com/watch?v=1eLdaJ-Y7zM&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=24 
 
