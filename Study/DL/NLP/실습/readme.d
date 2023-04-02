@@ -15,6 +15,3 @@
 6.GPT2 :https://www.youtube.com/watch?v=t43qcsVydnY&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=17
 
 7.BERT : https://www.youtube.com/watch?v=LEtLfx1dS7Q&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=16
-
-
-* 기타
